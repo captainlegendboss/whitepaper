@@ -2,6 +2,7 @@
 description: >-
   The LandRocker development team has a clear roadmap for the future of the game
   and ecosystem.
+hidden: true
 ---
 
 # Roadmap
