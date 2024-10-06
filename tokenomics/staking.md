@@ -18,7 +18,6 @@ The Liquidity Pool is designed to incentivize users to provide liquidity for the
 
 In addition to the traditional staking pools, LandRocker introduces a unique staking mechanism known as "NFT staking for revenue share." Players have the opportunity to offer their own crafted planets for others to mine. By staking their NFT planets, players can earn a share of the profits generated from the fuel prices other players pay to mine their planets. This feature allows players to monetize their NFT assets and participate in the revenue-sharing aspect of the game, creating a dynamic and interactive economy within the LandRocker ecosystem.
 
-\
 
 
 By offering a range of staking options, LandRocker encourages token holders to actively engage with the platform, contributing to its growth and success. Stakers are rewarded with various in-game resources, exclusive rovers, and opportunities to earn passive income, enhancing the overall gameplay experience and incentivizing long-term participation.

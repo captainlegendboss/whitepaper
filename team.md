@@ -1,6 +1,6 @@
 # Team
 
-<figure><img src=".gitbook/assets/Team 1280.318.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/photo_2024-08-16_10-57-26.jpg" alt=""><figcaption></figcaption></figure>
 
 LandRocker is developed by a talented team of blockchain and gaming experts, led by CEO Hamid Fathalian. The team has a proven track record of delivering successful gaming & IT projects, and is dedicated to creating the best possible gaming experience for LandRocker players. Learn more about the company behind LandRocker at[ Infinite8.ae](https://infinite.ae/).
 
