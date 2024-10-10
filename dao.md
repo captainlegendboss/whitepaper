@@ -1,4 +1,27 @@
+---
+cover: .gitbook/assets/2.7 dao-1280-318 (1).jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # DAO
+
+
+
+<figure><img src=".gitbook/assets/DAO.svg" alt=""><figcaption></figcaption></figure>
 
 As part of its long-term vision, LandRocker aims to evolve into a fully decentralized ecosystem where the platform’s trajectory is shaped by the collective influence of its players and investors. By transforming into a Decentralized Autonomous Organization (DAO), LandRocker empowers its community to take an active role in governance, decision-making, and the future development of the platform. This shift represents a key milestone in LandRocker’s journey, allowing for a more democratic, community-led approach to game evolution and ecosystem sustainability.
 

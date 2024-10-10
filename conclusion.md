@@ -1,5 +1,7 @@
 # Conclusion
 
+<figure><img src=".gitbook/assets/conclusion.svg" alt=""><figcaption></figcaption></figure>
+
 LandRocker stands at the forefront of the next generation of decentralized, effort-driven gaming, where every player’s time, creativity, and strategic decisions are rewarded with real, tangible assets. By combining immersive gameplay with a sustainable, blockchain-backed economy, LandRocker offers a gaming experience that empowers players to not only enjoy the game but also derive real-world value from their efforts. Every action in LandRocker—from liberating planets and mining rare resources to crafting unique NFTs and engaging in the marketplace—contributes to a dynamic, player-driven ecosystem where true ownership and long-term value are the cornerstones.
 
 With its sustainable economic model, LandRocker ensures that resources are finite, digital assets retain their value, and players are incentivized to continually reinvest in the economy. The integration of ERC-721 and ERC-1155 NFTs, along with ERC-20 tokens, provides a robust and secure foundation for asset ownership, giving players the freedom to trade, sell, and transfer their in-game items and currencies. Blockchain technology ensures transparency, fairness, and immutable ownership, providing players with confidence in the value and security of their digital assets.

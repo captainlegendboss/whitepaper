@@ -1,12 +1,28 @@
 ---
 description: Expanding Engagement and Revenue Sharing
+cover: .gitbook/assets/telegramWeb copy.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Telegram Mini-App
 
-<figure><img src=".gitbook/assets/telegramWeb copy.jpg" alt=""><figcaption></figcaption></figure>
-
 The Telegram Mini-App is an innovative extension of the LandRocker platform that provides a mobile-friendly interface, enabling players to stay connected and engaged with the game even when they’re on the go. It allows players to access key gameplay features, participate in unique competitions, and collaborate with the LandRocker community—all from within the familiar and widely-used Telegram environment. By integrating game elements into the app, LandRocker creates additional opportunities for engagement and revenue generation while enhancing the overall player experience.
+
+<figure><img src=".gitbook/assets/telegram mini app.svg" alt=""><figcaption></figcaption></figure>
 
 **Core Features of the Telegram Mini-App**
 

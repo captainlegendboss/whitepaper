@@ -1,6 +1,11 @@
 ---
 description: 'Phase 1: Foundations, Core Components, and the New Era of Digital Assets'
+cover: .gitbook/assets/M poster 3 (1).jpg
+coverY: -65.64266666666666
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -15,11 +20,11 @@ layout:
 
 # Executive Summary
 
-<figure><img src=".gitbook/assets/Overview 1280.318.jpg" alt=""><figcaption></figcaption></figure>
-
 ### A New Approach Inspired by the Real World
 
 At LandRocker, we believe in applying the value principles of the real world to the digital space. In the physical realm, value is derived from scarcity, effort, and creativity. We mine finite resources—such as gold, silver, and rare earth elements—that require genuine effort to extract. When crafted into valuable tools, technology, or art, these resources hold intrinsic value.
+
+<figure><img src=".gitbook/assets/Executive Summary.svg" alt=""><figcaption></figcaption></figure>
 
 ### Introducing LandRocker's Resource-Based Economy
 

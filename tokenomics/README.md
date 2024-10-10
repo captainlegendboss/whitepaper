@@ -1,10 +1,24 @@
 ---
 description: The LandRocker game economy revolves around the token “LRT”.
+cover: ../.gitbook/assets/Tokenomics 1280.318.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Tokenomics
-
-<figure><img src="../.gitbook/assets/Tokenomics 1280.318.jpg" alt=""><figcaption></figcaption></figure>
 
 LRT is a token that serves as the main governance and utility token of the LandRocker ecosystem. Players can buy LRT, and they can use it to get fuel, rovers, blueprints, and other in-game items on the LandRocker marketplace. LandRocker also offers staking mechanisms that allow players to earn fuel or rovers by staking their tokens for a certain period of time.
 
@@ -12,7 +26,7 @@ LandRocker plans to maintain a fixed supply of LRT, with no further tokens being
 
 LRT allocation chart is as follows:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tokenomics.svg" alt=""><figcaption></figcaption></figure>
 
 LRT Vesting schedule is as follows:
 
